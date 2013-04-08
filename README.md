@@ -3,6 +3,9 @@
 * single card
 * ~120mhash/s
 
+req: opencl
+
+
 Usage: poclbm.py [OPTION]... SERVER[#tag]...
 SERVER is one or more [http[s]|stratum://]user:pass@host:port          (required)
 [#tag] is a per SERVER user friendly name displayed in stats (optional)
