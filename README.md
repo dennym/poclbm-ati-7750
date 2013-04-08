@@ -5,6 +5,8 @@
 
 req: opencl
 
+donations: 1Jfej7bZF5YTs3d7aHNsSCPtaAuFFj5Jvz
+
 
 Usage: poclbm.py [OPTION]... SERVER[#tag]...
 SERVER is one or more [http[s]|stratum://]user:pass@host:port          (required)
