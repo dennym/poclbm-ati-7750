@@ -3,7 +3,7 @@
 * single card
 * ~120mhash/s
 
-req: opencl
+req: opencl -> for ubuntu ``python-pyopencl``
 
 donations: 1Jfej7bZF5YTs3d7aHNsSCPtaAuFFj5Jvz
 
